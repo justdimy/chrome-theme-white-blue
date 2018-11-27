@@ -1,2 +1,2 @@
-# google-chrome-theme-white-blue
+# Chrome-Theme-White-Blue
 Chrome [White] Blue Theme
